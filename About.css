@@ -1,0 +1,16 @@
+.About{
+    background-color: blanchedalmond;
+    height: 100vh;
+    .COntent{
+        font-size: 35px;
+        position: relative;
+        top: 70px;
+        color:red;
+    }
+}
+
+.Movement{
+    position: relative;
+    top: 70px;
+    font-size: 35px;
+}

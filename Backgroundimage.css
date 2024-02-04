@@ -1,0 +1,9 @@
+.Background-image{
+    /* background-image: url('./Depression_image.jpg'); */
+    background-image: url('./Depression1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: lightgreen;
+    height: 100vh;
+}

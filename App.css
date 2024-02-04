@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial';
+}
+.App{
+  height: 100vh;
+  .Sections{
+    width: 100%;
+    height: calc(100vh-70px);
+    background-color: blue;
+    position: relative;
+    top: 70px;
+    scroll-behavior: smooth;
+    >*{
+      width: 100%;
+      height: calc(100vh-70px);
+      
+    }
+  }
+}

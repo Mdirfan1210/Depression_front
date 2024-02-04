@@ -1,0 +1,86 @@
+.Contact{
+    background-color: lightblue;
+    height: 100vh;
+    .Content{
+        font-size: 35px;
+        position: relative;
+        top: 70px;
+        color:red;
+    }
+}
+.Detail1{
+    background-color: white;
+    border: 1px solid green;
+    height: 400px;
+    border-radius: 10px;
+    width: 300px;
+    margin-left: 150px;
+    margin-top: 140px;
+}
+.avatar{
+    width:210px;
+    margin-left: 45px;
+    margin-top: 10px;
+    border-radius: 50%;
+}
+.Detail11{
+    font-size: 28px;
+    margin: 15px;
+}
+.Detail1:hover{
+    background-color: blanchedalmond;
+    box-shadow: 5px 10px 8px 10px lightslategray;
+}
+
+
+.Detail3{
+    background-color: white;
+    border: 1px solid green;
+    height: 400px;
+    border-radius: 10px;
+    width: 300px;
+    margin-left: 589px;
+    position: relative;
+    bottom: 400px;
+}
+.avatar{
+    width:210px;
+    margin-left: 45px;
+    margin-top: 10px;
+    border-radius: 50%;
+}
+.Detail33{
+    font-size: 28px;
+    margin: 15px;
+}
+.Detail3:hover{
+    background-color: blanchedalmond;
+    box-shadow: 5px 10px 8px 10px lightslategray;
+}
+
+
+
+.Detail5{
+    background-color: white;
+    border: 1px solid green;
+    height: 400px;
+    border-radius: 10px;
+    width: 300px;
+    margin-left: 1030px;
+    position: relative;
+    bottom: 800px;
+}
+.avatar{
+    width:210px;
+    margin-left: 45px;
+    margin-top: 10px;
+    border-radius: 50%;
+}
+.Detail55{
+    font-size: 28px;
+    margin: 15px;
+}
+.Detail5:hover{
+    background-color: blanchedalmond;
+    box-shadow: 5px 10px 8px 10px lightslategray;
+}

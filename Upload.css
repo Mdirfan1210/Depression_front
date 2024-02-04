@@ -1,0 +1,39 @@
+.Upload{
+    background-color: lightgoldenrodyellow;
+    height: 100vh;
+    .Content{
+        font-size: 35px;
+        position: relative;
+        top: 70px;
+        color:red;
+    }
+}
+table{
+    border: 3px solid lightcoral;
+    border-radius: 10px;
+    position: relative;
+    top: 160px;
+    left: 350px;
+    font-size: 40px;
+    text-align: center;
+    
+}
+table:hover{
+    box-shadow: 5px 10px 8px 10px #919090;
+}
+.button1{
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 100px;
+    font-size: 25px;
+    border-radius: 12px;
+    
+}
+.Filepath{
+    font-size: 25px;
+    border-radius: 10px;
+    margin-left: 100px;
+}
+.button1:hover{
+    background-color: lightcyan;
+}
